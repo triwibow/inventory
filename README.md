@@ -14,3 +14,17 @@ Step :
 - buat database dengan nama inventory_db, sesuaikan username dan password di file .env
 - migration table : php artisan migrate
 - seed data : php artisan db:seed
+- run applikasi : php artisan serve
+- development server : http://127.0.0.1:8000
+
+Login aplikasi:
+
+- Administrator:
+                username: admin
+                password: 12345
+- Fakturis:
+                username: satya
+                password: 12345
+- Logistik:
+                username: robi
+                password: 12345
