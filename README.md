@@ -20,11 +20,11 @@ Step :
 Login aplikasi:
 
 - Administrator:
-                username: admin
-                password: 12345
+  - username: admin
+  - password: 12345
 - Fakturis:
-                username: satya
-                password: 12345
+  - username: satya
+  - password: 12345
 - Logistik:
-                username: robi
-                password: 12345
+  - username: robi
+  - password: 12345
